@@ -1,0 +1,64 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+footer {
+    margin: 50px 0;
+}
+
+.page-header{
+	font-style: zapfino;
+}
+
+.img-responsive{
+	height:400px; 
+	width:800px;
+}
+
+#image{
+	height:400px; 
+}
+
+.glyphicon{
+	color: white;
+}
+
+ .glyphicon.glyphicon-phone-alt, .glyphicon.glyphicon-envelope,.glyphicon.glyphicon-list-alt{
+	color:blueviolet	;
+}
+.navbar.navbar-default{
+	background-color: lavender;//#d6d6f7;//lavender;//mediumorchid;//iolet;//plum;//blueviolet;		
+	background-repeat: repeat-x;   
+	font-style: zapfino;
+	height: 70px;
+} 
+.btn.btn-info{
+	margin-left: 15px;
+}
+.navbar-header { 
+	margin-top: 28px;
+	font-size: 2.0em;
+	text-align: center;
+	font-family: AppleGothic,fantasy,Geneva,zapfino;
+	color:#61537d;  
+}
+p{
+	text-align: justify;
+	padding-right: 9px;
+}
+ 
+*{
+	color:#61537d;
+}
+.container{
+	//border-top:10px solid #d6d6f7;
+	//border-bottom:22px solid #d6d6f7;
+	//border-left: 22px solid #d6d6f7;
+	//border-right: 22px solid #d6d6f7;
+	background-color: lavender;
+	//background-image:url("http://www.wallstickeroutlet.com/Images/york-small-polka-dot-swirl-purple-2.jpg");//http://www.zingerbug.com/Backgrounds/background_images/lavender_bamboo_wallpaper_tileable.jpg");
+}
+ 
